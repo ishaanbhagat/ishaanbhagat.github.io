@@ -5,7 +5,9 @@ seotitle: Home - ishaanbhagat.com
 description: Personal Website - Ishaan Bhagat 
 ---
 
-Hi! My name is Ishaan Bhagat, I am a 16 year old high-school student currently studying at [UWCSEA](https://www.uwcsea.edu.sg/).
+
+
+👋 Hi! My name is Ishaan Bhagat, I am a 16 year old high-school student currently studying at [UWCSEA](https://www.uwcsea.edu.sg/).
 
 Hi, I’m [@sparrow's](https://github.com/lingxz/sparrow) sister and my [mainainter](https://migftw.com) has made me compatible with NetlifyCMS. I am particularly great for a SEO-focused writer’s blog or personal webpage. I'm programmed to render your system font-stack and my performance grade is 94 on tools.pingdom.com.
 
